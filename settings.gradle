@@ -1,0 +1,3 @@
+include ':easyInAppUpdater'
+include ':app'
+rootProject.name = "Sample"
