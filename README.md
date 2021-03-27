@@ -1,6 +1,12 @@
 [![](https://jitpack.io/v/sohanzz/Easy-InApp-Updater.svg)](https://jitpack.io/#sohanzz/Easy-InApp-Updater)
 
 
+<p align="center">
+  <img src="https://github.com/sohanzz/Easy-InApp-Updater/blob/master/logo.png" alt="logo" width="520" height="280" class="center" />
+</p>
+
+
+
 <h1 align="center">Easy In-App Updater</h1>
 <p align="center">Android Library to easily implement <a href="https://developer.android.com/guide/app-bundle/in-app-updates">in-app updates</a></p>
 
